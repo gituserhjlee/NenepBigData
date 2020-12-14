@@ -1,0 +1,11 @@
+{
+  "ActionAdventure": 0,
+  "Animation": 1,
+  "Biography":  2,
+  "CrimeAction": 3,
+  "Horror": 4,
+  "MysteryThriller": 5,
+  "RomanticComedy": 6,
+  "SciFi": 7,
+  "War": 8
+}
