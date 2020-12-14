@@ -1,9 +1,15 @@
-# NenepBigData
+# 빅데이터 - Word Embedding Team Project 
+
+Project name: NenepBigData
+
+Team name: 넵네
+Leader: 20150711 송희성 
+Team Members: 20165968 맹채정, 20164980 유경민, 20173954 유 진, 20176815 이현지
 
 영화별 review를 보고 해당 영화의 장르를 예측해보기
- - review속의 keyword를 추출 -
+review속의 keyword를 추출
 
-Target Data : 영화 리뷰 데이터
+Target Data: 영화 리뷰 데이터
 
 ## Data Scraping
 imdb의 영화 리뷰 데이터
